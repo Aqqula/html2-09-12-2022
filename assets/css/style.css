@@ -1,5 +1,5 @@
 body{
-    background-color: aquamarine;
+    background-color:ghostwhite;
     font-family: Arial, Helvetica, serif;
 }
 a{
@@ -12,6 +12,15 @@ a{
 a.logo{
     text-transform: uppercase;
     text-decoration: none;
+}
+ul.nav-info{
+    margin: 0;
+    padding: 4px;
+}
+ul.nav-info li{
+    display: inline;
+    margin-right: 5px;
+    
 }
 h1{
     text-align: center;
