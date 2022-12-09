@@ -1,0 +1,43 @@
+body{
+    background-color: aquamarine;
+    font-family: Arial, Helvetica, serif;
+}
+a{
+    font-size: 26px;
+}
+.font-accent{
+    font-size: 46px;
+    font-family: 'Rubik Gemstones', cursive;
+}
+a.logo{
+    text-transform: uppercase;
+    text-decoration: none;
+}
+h1{
+    text-align: center;
+    text-transform: capitalize;
+}
+.subtitle{
+    font-size: 26px;
+    text-align: right;
+    text-decoration: dotted rgb(255, 0, 0) overline 0.5em;
+}
+p{
+    font-weight: 700;
+    font-family: 'Lora', serif;
+    font-size: 30px;
+    line-height: 1.5em;
+    text-align: justify;
+    text-indent: 1em;
+}
+.btn{
+    text-decoration: none;
+    /* border-style: solid;
+    border-width: 5px;
+    border: red; */
+    border: 5px solid red;
+}
+/* Contact */
+.info-name {
+    color: coral;
+}
